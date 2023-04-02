@@ -19,7 +19,7 @@ Markdown — это облегченный язык разметки с синт
 
 Для работы с изображениями существует команда ![текст](путь к файлу в репозитории либо ссылка на него).
 
-![текст](github.com/DmitriyCherry/gitoChad/blob/main/highway.jpg)
+![текст](https://github.com/DmitriyCherry/gitoChad/blob/main/highway.jpg)
 
 В Git существует ряд команд, необходимых для работы с файлами и их версиями:
 - _git init_ – инициализация репозитория в Git;
